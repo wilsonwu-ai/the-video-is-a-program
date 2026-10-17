@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-labelledby="critique-loop-title critique-loop-desc" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="critique-loop-title">Render, look, fix the worst three</title>
+<desc id="critique-loop-desc">A four-step cycle: render frames, make a contact sheet, score it, then fix the worst three issues and render again.</desc>
+<defs>
+<marker id="ah" markerWidth="12" markerHeight="10" refX="10" refY="5" orient="auto" markerUnits="userSpaceOnUse"><polygon points="0 0, 12 5, 0 10" fill="#6b7280"/></marker>
+<marker id="aha" markerWidth="12" markerHeight="10" refX="10" refY="5" orient="auto" markerUnits="userSpaceOnUse"><polygon points="0 0, 12 5, 0 10" fill="#d97706"/></marker>
+</defs>
+<rect x="0" y="0" width="1600" height="900" fill="#ffffff"/>
+<text x="200" y="100" font-size="48" font-weight="700" fill="#111827" text-anchor="start">Render, look, fix the worst three</text>
+<g id="links" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M726 310 H874" stroke="#6b7280" stroke-width="4" marker-end="url(#ah)"/>
+<path d="M1140 406 V554" stroke="#6b7280" stroke-width="4" marker-end="url(#ah)"/>
+<path d="M874 650 H726" stroke="#6b7280" stroke-width="4" marker-end="url(#ah)"/>
+<path d="M460 554 V406" stroke="#d97706" stroke-width="4" marker-end="url(#aha)"/>
+</g>
+<g id="step-1">
+<rect x="200" y="220" width="520" height="180" rx="12" fill="#f3f4f6" stroke="#9ca3af" stroke-width="2"/>
+<circle cx="264" cy="310" r="30" fill="#111827"/>
+<text x="264" y="322" font-size="36" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="320" y="306" font-size="36" font-weight="700" fill="#111827" text-anchor="start">Render frames</text>
+<text x="320" y="352" font-size="30" font-weight="400" fill="#6b7280" text-anchor="start">one photo per moment</text>
+</g>
+<g id="step-2">
+<rect x="880" y="220" width="520" height="180" rx="12" fill="#f3f4f6" stroke="#9ca3af" stroke-width="2"/>
+<circle cx="944" cy="310" r="30" fill="#111827"/>
+<text x="944" y="322" font-size="36" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="1000" y="306" font-size="36" font-weight="700" fill="#111827" text-anchor="start">Contact sheet</text>
+<text x="1000" y="352" font-size="30" font-weight="400" fill="#6b7280" text-anchor="start">a grid of frames</text>
+</g>
+<g id="step-3">
+<rect x="880" y="560" width="520" height="180" rx="12" fill="#f3f4f6" stroke="#9ca3af" stroke-width="2"/>
+<circle cx="944" cy="650" r="30" fill="#111827"/>
+<text x="944" y="662" font-size="36" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="1000" y="646" font-size="36" font-weight="700" fill="#111827" text-anchor="start">Score it</text>
+<text x="1000" y="692" font-size="30" font-weight="400" fill="#6b7280" text-anchor="start">list what looks wrong</text>
+</g>
+<g id="step-4">
+<rect x="200" y="560" width="520" height="180" rx="12" fill="#f3f4f6" stroke="#d97706" stroke-width="4"/>
+<circle cx="264" cy="650" r="30" fill="#d97706"/>
+<text x="264" y="662" font-size="36" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<text x="320" y="646" font-size="36" font-weight="700" fill="#111827" text-anchor="start">Fix the worst three</text>
+<text x="320" y="692" font-size="30" font-weight="400" fill="#6b7280" text-anchor="start">then render again</text>
+</g>
+<text x="800" y="470" font-size="30" font-weight="400" fill="#6b7280" text-anchor="middle">The model cannot watch its film,</text>
+<text x="800" y="510" font-size="30" font-weight="400" fill="#6b7280" text-anchor="middle">so it reads the grid.</text>
+<text x="444" y="478" font-size="30" font-weight="700" fill="#d97706" text-anchor="end">repeat</text>
+</svg>

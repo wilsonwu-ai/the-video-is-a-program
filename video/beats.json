@@ -1,0 +1,81 @@
+{
+ "slug": "the-video-is-a-program",
+ "voice": "Samantha",
+ "rate": 175,
+ "gif_start": 19,
+ "gif_len": 12,
+ "beats": [
+  {
+   "id": "b01",
+   "caption": "One prompt. 2.1 million views. No video model.",
+   "narration": "A music video made from one prompt reached 2.1 million views, the post says. The model that made it cannot output video at all.",
+   "min_s": 10
+  },
+  {
+   "id": "b02",
+   "caption": "Do not ask for a video. Ask for time t.",
+   "narration": "Here is the trick. Do not ask for a video. Ask for the picture at time t. Then ask nine hundred times.",
+   "min_s": 10.5
+  },
+  {
+   "id": "b03",
+   "caption": "seek(t): set the scene for one instant",
+   "narration": "The model writes a program with one special function, seek. Give it a time and it arranges everything exactly as that instant should look.",
+   "min_s": 11.5
+  },
+  {
+   "id": "b04",
+   "caption": "A browser with no window takes the photo",
+   "narration": "A headless browser, a browser with no window, loads the program, calls seek, and takes a screenshot. One photo per frame.",
+   "min_s": 10
+  },
+  {
+   "id": "b05",
+   "caption": "15 seconds × 60 frames = 900 photos",
+   "narration": "Fifteen seconds at sixty frames per second is nine hundred photos. Same time, same picture, every run.",
+   "min_s": 10.5
+  },
+  {
+   "id": "b06",
+   "caption": "ffmpeg glues the photos and lays the sound",
+   "narration": "ffmpeg glues the photos into a film and lays the audio underneath. That is the whole machine.",
+   "min_s": 9.5
+  },
+  {
+   "id": "b07",
+   "caption": "The kit: eight pieces, not one prompt",
+   "narration": "The strongest videos were not one clever prompt. They came from a kit of eight pieces.",
+   "min_s": 10
+  },
+  {
+   "id": "b08",
+   "caption": "Brief, references, storyboards, spring motion",
+   "narration": "A production brief. Visual references. Storyboards written as states. Spring-based motion with synthesized audio.",
+   "min_s": 10.5
+  },
+  {
+   "id": "b09",
+   "caption": "Render, look, fix the worst three",
+   "narration": "The model cannot watch its film, so it reads a contact sheet, a grid of frames, scores it, and fixes the worst three issues. Then renders again.",
+   "min_s": 12
+  },
+  {
+   "id": "b10",
+   "caption": "Long briefs, high effort, overnight runs",
+   "narration": "What the viral runs shared, the post says: long briefs, high effort settings instead of the default, and overnight runs.",
+   "min_s": 10.5
+  },
+  {
+   "id": "b11",
+   "caption": "This video was made this way",
+   "narration": "This video was rendered exactly this way: a seek function, a headless browser, thirty frames per second, ffmpeg. The program is in the repo.",
+   "min_s": 11
+  },
+  {
+   "id": "b12",
+   "caption": "The video is a program",
+   "narration": "The video is a program. Read the article to see every piece.",
+   "min_s": 8
+  }
+ ]
+}

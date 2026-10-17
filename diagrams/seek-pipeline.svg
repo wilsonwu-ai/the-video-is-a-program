@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-labelledby="seek-pipeline-title seek-pipeline-desc" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="seek-pipeline-title">A video, one question at a time</title>
+<desc id="seek-pipeline-desc">Pipeline from the brief to a program with a seek function, a headless browser taking one photo per frame, 900 photos, ffmpeg and the finished MP4.</desc>
+<defs>
+<marker id="ah" markerWidth="12" markerHeight="10" refX="10" refY="5" orient="auto" markerUnits="userSpaceOnUse"><polygon points="0 0, 12 5, 0 10" fill="#6b7280"/></marker>
+<marker id="aha" markerWidth="12" markerHeight="10" refX="10" refY="5" orient="auto" markerUnits="userSpaceOnUse"><polygon points="0 0, 12 5, 0 10" fill="#d97706"/></marker>
+</defs>
+<rect x="0" y="0" width="1600" height="900" fill="#ffffff"/>
+<text x="120" y="100" font-size="48" font-weight="700" fill="#111827" text-anchor="start">A video, one question at a time</text>
+<g id="links" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M526 300 H594" stroke="#6b7280" stroke-width="4" marker-end="url(#ah)"/>
+<path d="M1006 300 H1074" stroke="#6b7280" stroke-width="4" marker-end="url(#ah)"/>
+<path d="M526 660 H594" stroke="#6b7280" stroke-width="4" marker-end="url(#ah)"/>
+<path d="M1006 660 H1074" stroke="#6b7280" stroke-width="4" marker-end="url(#ah)"/>
+<path d="M1280 424 V468 a12 12 0 0 1 -12 12 H332 a12 12 0 0 0 -12 12 V532" stroke="#6b7280" stroke-width="4" marker-end="url(#ah)"/>
+</g>
+<g id="step-1">
+<rect x="120" y="180" width="400" height="240" rx="12" fill="#f3f4f6" stroke="#9ca3af" stroke-width="2"/>
+<circle cx="174" cy="234" r="30" fill="#111827"/>
+<text x="174" y="246" font-size="36" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="148" y="322" font-size="36" font-weight="700" fill="#111827" text-anchor="start">The brief</text>
+<text x="148" y="366" font-size="30" font-weight="400" fill="#6b7280" text-anchor="start">what the film</text>
+<text x="148" y="406" font-size="30" font-weight="400" fill="#6b7280" text-anchor="start">must do</text>
+</g>
+<g id="step-2">
+<rect x="600" y="180" width="400" height="240" rx="12" fill="#f3f4f6" stroke="#d97706" stroke-width="4"/>
+<circle cx="654" cy="234" r="30" fill="#d97706"/>
+<text x="654" y="246" font-size="36" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="628" y="322" font-size="36" font-weight="700" fill="#111827" text-anchor="start">A program</text>
+<text x="628" y="366" font-size="30" font-weight="400" fill="#6b7280" text-anchor="start">with seek(t)</text>
+</g>
+<g id="step-3">
+<rect x="1080" y="180" width="400" height="240" rx="12" fill="#f3f4f6" stroke="#9ca3af" stroke-width="2"/>
+<circle cx="1134" cy="234" r="30" fill="#111827"/>
+<text x="1134" y="246" font-size="36" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="1108" y="322" font-size="36" font-weight="700" fill="#111827" text-anchor="start">Headless browser</text>
+<text x="1108" y="366" font-size="30" font-weight="400" fill="#6b7280" text-anchor="start">photo at time t</text>
+</g>
+<g id="step-4">
+<rect x="120" y="540" width="400" height="240" rx="12" fill="#f3f4f6" stroke="#9ca3af" stroke-width="2"/>
+<circle cx="174" cy="594" r="30" fill="#111827"/>
+<text x="174" y="606" font-size="36" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<text x="148" y="682" font-size="36" font-weight="700" fill="#111827" text-anchor="start">900 photos</text>
+<text x="148" y="726" font-size="30" font-weight="400" fill="#6b7280" text-anchor="start">15 s at 60 fps</text>
+</g>
+<g id="step-5">
+<rect x="600" y="540" width="400" height="240" rx="12" fill="#f3f4f6" stroke="#9ca3af" stroke-width="2"/>
+<circle cx="654" cy="594" r="30" fill="#111827"/>
+<text x="654" y="606" font-size="36" font-weight="700" fill="#ffffff" text-anchor="middle">5</text>
+<text x="628" y="682" font-size="36" font-weight="700" fill="#111827" text-anchor="start">ffmpeg</text>
+<text x="628" y="726" font-size="30" font-weight="400" fill="#6b7280" text-anchor="start">glue, add sound</text>
+</g>
+<g id="step-6">
+<rect x="1080" y="540" width="400" height="240" rx="12" fill="#f3f4f6" stroke="#0d9488" stroke-width="4"/>
+<circle cx="1134" cy="594" r="30" fill="#0d9488"/>
+<text x="1134" y="606" font-size="36" font-weight="700" fill="#ffffff" text-anchor="middle">6</text>
+<text x="1108" y="682" font-size="36" font-weight="700" fill="#111827" text-anchor="start">MP4</text>
+<text x="1108" y="726" font-size="30" font-weight="400" fill="#6b7280" text-anchor="start">the finished film</text>
+</g>
+</svg>

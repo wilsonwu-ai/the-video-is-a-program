@@ -1,0 +1,47 @@
+1
+00:00:00,000 --> 00:00:10,000
+A music video made from one prompt reached 2.1 million views, the post says. The model that made it cannot output video at all.
+
+2
+00:00:10,000 --> 00:00:20,500
+Here is the trick. Do not ask for a video. Ask for the picture at time t. Then ask nine hundred times.
+
+3
+00:00:20,500 --> 00:00:32,000
+The model writes a program with one special function, seek. Give it a time and it arranges everything exactly as that instant should look.
+
+4
+00:00:32,000 --> 00:00:42,000
+A headless browser, a browser with no window, loads the program, calls seek, and takes a screenshot. One photo per frame.
+
+5
+00:00:42,000 --> 00:00:52,500
+Fifteen seconds at sixty frames per second is nine hundred photos. Same time, same picture, every run.
+
+6
+00:00:52,500 --> 00:01:02,000
+ffmpeg glues the photos into a film and lays the audio underneath. That is the whole machine.
+
+7
+00:01:02,000 --> 00:01:12,000
+The strongest videos were not one clever prompt. They came from a kit of eight pieces.
+
+8
+00:01:12,000 --> 00:01:22,500
+A production brief. Visual references. Storyboards written as states. Spring-based motion with synthesized audio.
+
+9
+00:01:22,500 --> 00:01:34,500
+The model cannot watch its film, so it reads a contact sheet, a grid of frames, scores it, and fixes the worst three issues. Then renders again.
+
+10
+00:01:34,500 --> 00:01:45,000
+What the viral runs shared, the post says: long briefs, high effort settings instead of the default, and overnight runs.
+
+11
+00:01:45,000 --> 00:01:56,000
+This video was rendered exactly this way: a seek function, a headless browser, thirty frames per second, ffmpeg. The program is in the repo.
+
+12
+00:01:56,000 --> 00:02:04,000
+The video is a program. Read the article to see every piece.

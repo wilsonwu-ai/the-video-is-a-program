@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-labelledby="eight-pieces-title eight-pieces-desc" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="eight-pieces-title">The kit behind the viral videos</title>
+<desc id="eight-pieces-desc">Eight tiles naming the parts of the video-making kit: a seekable frame function with headless render, a coding-agent rig, a production brief, visual references, state storyboards, spring motion with synthesized audio, a critique loop on contact sheets, and packaging as a skill.</desc>
+<defs>
+<marker id="ah" markerWidth="12" markerHeight="10" refX="10" refY="5" orient="auto" markerUnits="userSpaceOnUse"><polygon points="0 0, 12 5, 0 10" fill="#6b7280"/></marker>
+<marker id="aha" markerWidth="12" markerHeight="10" refX="10" refY="5" orient="auto" markerUnits="userSpaceOnUse"><polygon points="0 0, 12 5, 0 10" fill="#d97706"/></marker>
+</defs>
+<rect x="0" y="0" width="1600" height="900" fill="#ffffff"/>
+<text x="60" y="100" font-size="48" font-weight="700" fill="#111827" text-anchor="start">The kit behind the viral videos</text>
+<g id="links"></g>
+<g id="step-1">
+<rect x="60" y="190" width="340" height="300" rx="12" fill="#f3f4f6" stroke="#d97706" stroke-width="4"/>
+<circle cx="114" cy="244" r="30" fill="#d97706"/>
+<text x="114" y="256" font-size="36" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="88" y="350" font-size="34" font-weight="700" fill="#111827" text-anchor="start">seek(t) +</text>
+<text x="88" y="398" font-size="34" font-weight="700" fill="#111827" text-anchor="start">headless render</text>
+</g>
+<g id="step-2">
+<rect x="440" y="190" width="340" height="300" rx="12" fill="#f3f4f6" stroke="#9ca3af" stroke-width="2"/>
+<circle cx="494" cy="244" r="30" fill="#111827"/>
+<text x="494" y="256" font-size="36" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="468" y="350" font-size="34" font-weight="700" fill="#111827" text-anchor="start">A coding-agent</text>
+<text x="468" y="398" font-size="34" font-weight="700" fill="#111827" text-anchor="start">rig</text>
+</g>
+<g id="step-3">
+<rect x="820" y="190" width="340" height="300" rx="12" fill="#f3f4f6" stroke="#9ca3af" stroke-width="2"/>
+<circle cx="874" cy="244" r="30" fill="#111827"/>
+<text x="874" y="256" font-size="36" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="848" y="350" font-size="34" font-weight="700" fill="#111827" text-anchor="start">A production</text>
+<text x="848" y="398" font-size="34" font-weight="700" fill="#111827" text-anchor="start">brief</text>
+</g>
+<g id="step-4">
+<rect x="1200" y="190" width="340" height="300" rx="12" fill="#f3f4f6" stroke="#9ca3af" stroke-width="2"/>
+<circle cx="1254" cy="244" r="30" fill="#111827"/>
+<text x="1254" y="256" font-size="36" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<text x="1228" y="350" font-size="34" font-weight="700" fill="#111827" text-anchor="start">Visual</text>
+<text x="1228" y="398" font-size="34" font-weight="700" fill="#111827" text-anchor="start">references</text>
+</g>
+<g id="step-5">
+<rect x="60" y="530" width="340" height="300" rx="12" fill="#f3f4f6" stroke="#9ca3af" stroke-width="2"/>
+<circle cx="114" cy="584" r="30" fill="#111827"/>
+<text x="114" y="596" font-size="36" font-weight="700" fill="#ffffff" text-anchor="middle">5</text>
+<text x="88" y="690" font-size="34" font-weight="700" fill="#111827" text-anchor="start">State</text>
+<text x="88" y="738" font-size="34" font-weight="700" fill="#111827" text-anchor="start">storyboards</text>
+</g>
+<g id="step-6">
+<rect x="440" y="530" width="340" height="300" rx="12" fill="#f3f4f6" stroke="#9ca3af" stroke-width="2"/>
+<circle cx="494" cy="584" r="30" fill="#111827"/>
+<text x="494" y="596" font-size="36" font-weight="700" fill="#ffffff" text-anchor="middle">6</text>
+<text x="468" y="690" font-size="34" font-weight="700" fill="#111827" text-anchor="start">Spring motion +</text>
+<text x="468" y="738" font-size="34" font-weight="700" fill="#111827" text-anchor="start">synthesized audio</text>
+</g>
+<g id="step-7">
+<rect x="820" y="530" width="340" height="300" rx="12" fill="#f3f4f6" stroke="#0d9488" stroke-width="4"/>
+<circle cx="874" cy="584" r="30" fill="#0d9488"/>
+<text x="874" y="596" font-size="36" font-weight="700" fill="#ffffff" text-anchor="middle">7</text>
+<text x="848" y="690" font-size="34" font-weight="700" fill="#111827" text-anchor="start">Critique loop on</text>
+<text x="848" y="738" font-size="34" font-weight="700" fill="#111827" text-anchor="start">contact sheets</text>
+</g>
+<g id="step-8">
+<rect x="1200" y="530" width="340" height="300" rx="12" fill="#f3f4f6" stroke="#9ca3af" stroke-width="2"/>
+<circle cx="1254" cy="584" r="30" fill="#111827"/>
+<text x="1254" y="596" font-size="36" font-weight="700" fill="#ffffff" text-anchor="middle">8</text>
+<text x="1228" y="690" font-size="34" font-weight="700" fill="#111827" text-anchor="start">Packaged as</text>
+<text x="1228" y="738" font-size="34" font-weight="700" fill="#111827" text-anchor="start">a skill</text>
+</g>
+</svg>
